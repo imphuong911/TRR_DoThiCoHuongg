@@ -1,6 +1,6 @@
 # TRR_DoThiCoHuongg
 
-#dothi1.h
+#dothi2.h
 - Khai báo, định nghĩa các hàm:
 - Đọc ma trận, danh sách kề, danh sách cạnh từ file
 - Ghi ma trận, danh sách kề, danh sách cạnh vào file
